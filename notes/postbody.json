@@ -1,0 +1,32 @@
+[
+	{
+	"name":"Morley home",
+	"postcode":6062,
+	"wattCap":2.1
+	},
+	{
+	"name":"Bayswater library",
+	"postcode":6053,
+	"wattCap":6.5
+	},
+	{
+	"name":"Subiaco cafe",
+	"postcode":6008,
+	"wattCap":3.2
+	},
+	{
+	"name":"Mt Lawley Bakery",
+	"postcode":6060,
+	"wattCap":2.8
+	},
+	{
+	"name":"Shop 32",
+	"postcode":6032,
+	"wattCap":2.8
+	},
+	{
+	"name":"Shop 55",
+	"postcode":6055,
+	"wattCap":6
+	}
+]
