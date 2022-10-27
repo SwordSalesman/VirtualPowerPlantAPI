@@ -13,12 +13,12 @@ Skill test for Powerledger submitted by Luke Cannon.
 Recommended to use Postman or similar for sending/receiving HTTP requests.
 
 GET request with all batteries
-```http
+```
 http://localhost:8080/api/v1/battery
 ```
 
 GET request with a specified postcode range (e.g. 6050 to 6070)
-```http
+```
 http://localhost:8080/api/v1/battery?start=6050&end=6070
 ```
 
