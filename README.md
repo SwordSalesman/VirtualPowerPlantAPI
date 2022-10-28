@@ -3,7 +3,7 @@
 
 Skill test for Powerledger submitted by Luke Cannon.
 
-A Spring API is used to get/retrieve data from a MySQL database. Both the Spring application and the database are hosted on Azure services and are publicly accessible.
+A Spring API is used to push/retrieve data from a MySQL database. Both the Spring application and the database are hosted on Azure services and are publicly accessible.
 
 ## Usage/Examples
 Recommended to use Postman or similar for sending/receiving HTTP requests.
