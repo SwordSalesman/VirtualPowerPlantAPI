@@ -5,7 +5,7 @@ import javax.persistence.*;
 /*
     Battery
     This class houses the attributes of a battery.
-    An ID is also stored, which is used for ID purposes in the database.
+    The ID field has been removed, but only commented out should it be needed later.
  */
 @Entity // Tells Java to make Battery a persistent object in databases
 @Table // Defines this class as a representation of a table in the db

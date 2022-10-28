@@ -7,10 +7,10 @@ import java.util.OptionalDouble;
 /*
     BatteryResponse
     This class exists to house both a collection of batteries, and some statistics about batteries.
-    The constructor takes a list of batteries, and stores the following:
-        - The list of batteries order alphabetically by name
+    The constructor takes a list of batteries, then calculates and stores the following:
         - The average watt capacity of the batteries
         - The total watt capacity of the batteries
+        - The list of batteries ordered alphabetically by name
  */
 public class BatteryResponse {
     private Double capacityAverage;
